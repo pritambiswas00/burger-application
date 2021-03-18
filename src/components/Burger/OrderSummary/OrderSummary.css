@@ -1,0 +1,10 @@
+.Ul{
+    list-style: none;
+    background-color: rgba(230, 157, 22, 0.3);
+    border-radius: 5px;
+    padding: auto;
+}
+.Paragraph{
+       background-color: rgba(230, 157, 22, 0.3);
+       
+}
